@@ -1,0 +1,35 @@
+[
+  {
+    "id": "7bcc4cef-0f9c-43a8-b52f-4adfdbc8f79c",
+    "version": 1,
+    "beerName": "Galaxy Cat",
+    "beerStyle": "PALE_ALE",
+    "upc": "123456",
+    "quantityOnHand": 122,
+    "price": 12.99,
+    "createDate": "2023-06-16T22:43:18.8482551",
+    "updateDate": "2023-06-16T22:43:18.8482551"
+  },
+  {
+    "id": "7c19e39c-87a9-44fc-9c02-2a3b46677fad",
+    "version": 1,
+    "beerName": "Crank",
+    "beerStyle": "PALE_ALE",
+    "upc": "12356222",
+    "quantityOnHand": 392,
+    "price": 11.99,
+    "createDate": "2023-06-16T22:43:18.8482551",
+    "updateDate": "2023-06-16T22:43:18.8482551"
+  },
+  {
+    "id": "351992f5-da18-46d4-abc9-5c67edd2e33a",
+    "version": 1,
+    "beerName": "Sunshine City",
+    "beerStyle": "IPA",
+    "upc": "12356",
+    "quantityOnHand": 144,
+    "price": 13.99,
+    "createDate": "2023-06-16T22:43:18.8482551",
+    "updateDate": "2023-06-16T22:43:18.8482551"
+  }
+]

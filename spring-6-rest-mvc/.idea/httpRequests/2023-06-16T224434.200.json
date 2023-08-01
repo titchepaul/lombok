@@ -1,0 +1,11 @@
+{
+  "id": "351992f5-da18-46d4-abc9-5c67edd2e33a",
+  "version": 1,
+  "beerName": "Sunshine City",
+  "beerStyle": "IPA",
+  "upc": "12356",
+  "quantityOnHand": 144,
+  "price": 13.99,
+  "createDate": "2023-06-16T22:43:18.8482551",
+  "updateDate": "2023-06-16T22:43:18.8482551"
+}
