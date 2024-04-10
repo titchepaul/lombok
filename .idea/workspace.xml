@@ -1,14 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f37a65a9-64cf-47f5-8c85-797bc063ff36" name="Changes" comment="" />
+    <list default="true" id="f37a65a9-64cf-47f5-8c85-797bc063ff36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lombok.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lombok.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-6-rest-mvc/spring-6-rest-mvc/src/main/resources/application-localmysql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-6-rest-mvc/spring-6-rest-mvc/src/main/resources/application-localmysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-6-rest-mvc/spring-6-rest-mvc/src/main/resources/db.migration/V1__init_mysql_database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/spring-6-rest-mvc/spring-6-rest-mvc/src/main/resources/db.migration/V1__init_mysql_database.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2TOjBtFIy1ZOyAxTKez9aZIW6xu" />
   <component name="ProjectViewState">
@@ -17,13 +40,95 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/java/spring/lombok",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "spring.configuration.checksum": "0044c7b63f23ae9ce17f67a803699dee",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.spring6restmvc in spring-6-rest-mvc">
+    <configuration name="BootstrapDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-6-rest-mvc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.spring6restmvc.bootstrap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.springframework.spring6restmvc.bootstrap" />
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.spring6restmvc.bootstrap.BootstrapDataTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring6RestMvcApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-6-rest-mvc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.spring6restmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.springframework.spring6restmvc" />
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.spring6restmvc.Spring6RestMvcApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spring6restmvc in spring-6-rest-mvc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-6-rest-mvc" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/spring-6-rest-mvc/spring-6-rest-mvc/src/test/java/guru/springframework/spring6restmvc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring6RestMvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="localmysql" />
+      <module name="spring-6-rest-mvc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.spring6restmvc.Spring6RestMvcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BootstrapDataTest" />
+      <item itemvalue="JUnit.spring6restmvc in spring-6-rest-mvc" />
+      <item itemvalue="JUnit.Spring6RestMvcApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.Spring6RestMvcApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.spring6restmvc in spring-6-rest-mvc" />
+        <item itemvalue="JUnit.BootstrapDataTest" />
+        <item itemvalue="JUnit.Spring6RestMvcApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,6 +138,9 @@
       <option name="presentableId" value="Default" />
       <updated>1690920889047</updated>
       <workItem from="1690920889963" duration="89000" />
+      <workItem from="1691941875553" duration="2213000" />
+      <workItem from="1708116349487" duration="2452000" />
+      <workItem from="1708205088348" duration="8965000" />
     </task>
     <servers />
   </component>
